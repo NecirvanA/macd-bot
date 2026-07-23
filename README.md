@@ -20,7 +20,6 @@ For each symbol, `moving_average.py` pulls recent daily bars and computes:
 | `main.py` | Live/paper trading loop — scans all tradable US equities, places buy/sell orders via Alpaca |
 | `moving_average.py` | Strategy logic (`checkBuy` / `checkSell`) shared by the live bot and backtester |
 | `backtester.py` | Runs the strategy over historical data for a fixed watchlist and compares returns to SPY |
-| `test.py` | Quick sanity check for terminal color output |
 
 ## Setup
 
