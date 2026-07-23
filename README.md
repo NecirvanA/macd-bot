@@ -62,8 +62,3 @@ python backtester.py
 ```
 
 Backtests a fixed watchlist of large-cap symbols over the past year, starting from $100,000, and prints profit per symbol plus a comparison against buy-and-hold SPY returns.
-
-## Disclaimer
-
-This is a personal/educational project, not financial advice. Trading involves risk of loss. Test thoroughly with a paper trading account before ever pointing this at a live account, and use it entirely at your own risk.
-# macd-bot
