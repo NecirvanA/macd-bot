@@ -1,0 +1,5 @@
+alpaca-py==0.43.2
+python-dotenv==1.2.1
+termcolor==3.2.0
+pandas==2.3.3
+numpy==2.3.5
